@@ -23,7 +23,7 @@
     <p style="width: 400px;">
         <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelAzambuja&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
         <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RaphaelAzambuja&show_icons=true&locale=en&theme=tokyonight" />
-        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaphaelAzambuja&&theme=tokyonight" />
+        <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=RaphaelAzambuja&theme=tokyonight" />
     </p>
 </div>
 </div>
