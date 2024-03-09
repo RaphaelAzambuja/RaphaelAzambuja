@@ -2,15 +2,14 @@
 
 <h1>Raphael Azambuja</h1>
 
-<p style="text-align: justify;">Desenvolvedor com 2 anos de experiência em desenvolvimento web, com foco atual em Laravel. Tenho uma mente aberta para novas oportunidades e uma base sólida em diversos conceitos. Sempre busco aprimorar minhas habilidades, e tenho um particular interesse em estudar diferentes ferramentas e linguagens, comparando suas funcionalidades para enriquecer minha perspectiva no vasto universo da programação.</p>
-
 <h2>Minhas Ferramentas</h2>
 
-![laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
-![livewire](https://img.shields.io/badge/Livewire-FB70A9.svg?style=for-the-badge&logo=Livewire&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![psql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
     
 <h2>Redes Sociais</h2>
       
@@ -23,7 +22,6 @@
     <p style="width: 400px;">
         <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaphaelAzambuja&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
         <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RaphaelAzambuja&show_icons=true&locale=en&theme=tokyonight" />
-        <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=RaphaelAzambuja&theme=tokyonight" />
     </p>
 </div>
 </div>
