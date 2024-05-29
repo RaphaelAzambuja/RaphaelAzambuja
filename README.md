@@ -1,15 +1,5 @@
 <div style=" display: flex; flex-direction: column; justify-content: center; max-width: 800px; margin: auto; padding: 20px; text-align: center;">
 
-<h1>Raphael Azambuja</h1>
-
-<h2>Minhas Ferramentas</h2>
-
-![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![psql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-    
 <h2>Redes Sociais</h2>
       
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raphael-azambuja-15001a212/)
