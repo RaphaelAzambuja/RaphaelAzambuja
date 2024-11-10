@@ -1,33 +1,51 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelazambuja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Raphael%20Azambuja%20-%20O%20mago%20da%20programa%C3%A7%C3%A3o" height="148" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=raphaelazambuja&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="148" alt="streak graph"  />
-</div>
+<br clear="both">
+
+<p align="left" style="font-size: 16px;">
+Sou um desenvolvedor que produz soluções com qualidade, elegância e simplicidade com o objetivo de proporcionar uma ótima experiência e encantar os usuários.
+<br><br>
+Atualmente, atuo como desenvolvedor Fullstack na <a href="https://www.nitroecom.com.br/" about="_blank">Nitroecom</a>, onde me dedico à criação de plataformas de e-commerce poderosas e inovadoras.
+<br><br>
+Tenho uma forte afinidade com o backend, infraestrutura e entendimento do negócio, além de experiência em metodologias ágeis, solução de problemas, boas práticas de codificação e integração entre sistemas. Também tenho conhecimento em consumo e entrega de APIs REST e SOAP.
+</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelazambuja&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelazambuja&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<div style="display: flex; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(10, 50px); gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="45" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="sass logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" alt="postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" alt="jenkins logo" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="45" alt="rabbitmq logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="grafana logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" alt="prometheus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+</div>
+</div>
+
 
 ###
 
